@@ -96,8 +96,8 @@ Design aims to incorporate components that lock the system in fully extended or 
 -Beam analysis may be applied to the primary strut to estimate stress levels and identify critical locations.
 
 **ANSYS / Simulation Analysis**  
--The CAD assembly can be imported into ANSYS so real-world loading conditions can be applied.  
-Simulation results will be used to identify and evaluate failure modes and guide design improvements.
+After creating individual parts and an assembly in SOLIDWORKS, the design can be imported to ANSYS so real world loadings can be applied to the housing and our structure. We will then analyze the beam under loading conditions that model what would be seen in the real world. ANSYS will help us identify and evaluate the failure modes of our system. Allowing us to make design improvements to our prototype and understand the impact of elements such as hydraulics in the industry 
+
 
 ## Critical Design Parameters
 The success of the “Hard Landing” gear structure relies on the implementation of various critical design parameters. These parameters correspond to the structural integrity of the landing gear under load and ensure the mechanism operates as the kinematic relationships describe. 
