@@ -20,6 +20,7 @@ Some simplifications to note are that the design replaces hydraulic actuation wi
 To support the aircraft during ground operations and to deploy and retract the gear during flight and landing. In the deployed position, the rigid strut and wheel assembly carry landing and taxi loads and transfer them into the aircraft structure. In the retracted position, the gear folds into the wheel well to reduce drag.
 The system is designed using full-scale loads representative of a wide-body commercial aircraft.
 
+
 <p align="center">
   <img src="figures/phase1/components.png" alt="System sketch">
 </p>
@@ -51,16 +52,13 @@ Note - Pin joints are assumed at all rotating connections but are not shown in d
   <tr>
     <td align="center">
       <img src="figures/phase1/isocadproto.png" alt="CAD model">
-      <br>
-      Figure 1a: CAD-based system sketch
     </td>
     <td align="center">
       <img src="figures/phase1/frontfacecadproto.png" alt="Hand sketch">
-      <br>
-      Figure 1b: Hand-drawn linkage sketch
-    </td>
+     </td>
   </tr>
 </table>
+
 **Description**
 -The landing gear mechanism is a planar linkage system composed of rigid members connected by pin joints. Based on the linkage layout, the system has one degree of freedom (1 DOF), meaning the entire motion is governed by a single input.
 (see figures)
