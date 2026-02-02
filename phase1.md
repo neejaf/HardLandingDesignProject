@@ -2,7 +2,7 @@
 Hard Landing – Landing Gear Project  
 
 <p align="center">
-![System sketch](figures/phase1/iso2cad.png)
+  <img src="figures/phase1/iso2cad.png" alt="System sketch">
 </p>
 
 Aiden Beam, Jack Bessette, Ben Kolecki, Hunter Sam, Evan Morris, Nordin Jafar  
