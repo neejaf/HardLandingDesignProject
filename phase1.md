@@ -103,14 +103,18 @@ Simulation results will be used to identify and evaluate failure modes and guide
 The success of the “Hard Landing” gear structure relies on the implementation of various critical design parameters. These parameters correspond to the structural integrity of the landing gear under load and ensure the mechanism operates as the kinematic relationships describe. 
 
 **Pin to Clamp Length, ℓCD**
+
 The length front the pin at the top of the strut to the clamp, ℓ, is a critical parameter that directly impacts the angles that the supporting linkage bars must reach. Additionally, the location of the clamp along the oleo will determine the amount of torque the motor needs to rotate the free end with the wheel. 
 
 **Motor Torque and Rotation Requirements**
+
 The hydraulics in the inspiration for “Hard Landing” have been replaced with rigid supports and rotation powered by a motor. The required torque of the stepper motor, along with the angle it must rotate to, must be calculated to bring the oleo to a 90 degree angle with the landing surface.
 
 **Factor of Safety**
+
 A reasonably high factor of safety must be established after determining the highest stress components to avoid static overload and failure due to large loadings upon landing. 
 
 **Supporting Strut Lockout**
+
 When the landing gear is deployed the angle between the short and long bar must be straight at 180 degrees. If this linkage is not at a straight angle, it will not effectively support the loading on the landing gear. The lengths of these bars and the pin at their linkage must be optimized to ensure they do not collapse under loading during landing. 
 
