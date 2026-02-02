@@ -34,6 +34,7 @@ The system is designed using full-scale loads representative of a wide-body comm
      </td>
   </tr>
 </table>
+
 **Decomposition**
 
 The landing gear system is composed of a small number of rigid components connected by pin joints to allow rotation during deployment and retraction (see scaled figure).
