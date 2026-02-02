@@ -41,7 +41,7 @@ The landing gear system is composed of a small number of rigid components connec
 Sketch dimensions are intended for prototype demonstration. Primary components (as shown in figure)
 
 **Wheel Leg / Oleo**  
-Main rigid strut of the landing gear.Carries the wheel assembly and primary loads  
+Main rigid strut of the landing gear. Carries the wheel assembly and primary loads  
 
 **Long Bar**  
 Part of the linkage mechanism. Controls the motion of the wheel leg during retraction and deployment.
