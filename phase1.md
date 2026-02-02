@@ -93,7 +93,7 @@ Design aims to incorporate components that lock the system in fully extended or 
 
 ## Analysis Methods
 
-**Beam Theory**
+**Beam Theory**  
 A primary study of the lending gear can be performed through beam analysis. The main strut, or oleo, can be treated as a beam and the supporting strut can be trivialized to a two force member. The team can study the strut under combined axial and bending loads to determine the locations of maximum bending and shear stress from loadings during landing. This simplified model is limited by its inability to account for the dynamic interaction between the two legs of the supporting strut as well as the pins in the structure. Ultimately, beam theory best serves as a primary validation tool for the primary strut of the landing gear. 
 
 
