@@ -92,8 +92,9 @@ Design aims to incorporate components that lock the system in fully extended or 
 -In warmer environments, elevated temperatures could result in deformation or material degradation.
 
 ## Analysis Methods
-**Beam Analysis**  
--Beam analysis may be applied to the primary strut to estimate stress levels and identify critical locations.
+**Beam Theory**
+	A primary study of the lending gear can be performed through beam analysis. The main strut, or oleo, can be treated as a beam and the supporting strut can be trivialized to a two force member. The team can study the strut under combined axial and bending loads to determine the locations of maximum bending and shear stress from loadings during landing. This simplified model is limited by its inability to account for the dynamic interaction between the two legs of the supporting strut as well as the pins in the structure. Ultimately, beam theory best serves as a primary validation tool for the primary strut of the landing gear.
+
 
 **ANSYS / Simulation Analysis**  
 After creating individual parts and an assembly in SOLIDWORKS, the design can be imported to ANSYS so real world loadings can be applied to the housing and our structure. We will then analyze the beam under loading conditions that model what would be seen in the real world. ANSYS will help us identify and evaluate the failure modes of our system. Allowing us to make design improvements to our prototype and understand the impact of elements such as hydraulics in the industry 
