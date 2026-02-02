@@ -47,10 +47,23 @@ Note - Pin joints are assumed at all rotating connections but are not shown in d
 <p align="center">
   <img src="figures/phase1/kinematicmotion.png" alt="System sketch">
 </p>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="figures/phase1/isocadproto.png" alt="CAD model">
+      <br>
+      Figure 1a: CAD-based system sketch
+    </td>
+    <td align="center">
+      <img src="figures/phase1/frontfacecadproto.png" alt="Hand sketch">
+      <br>
+      Figure 1b: Hand-drawn linkage sketch
+    </td>
+  </tr>
+</table>
 **Description**
 -The landing gear mechanism is a planar linkage system composed of rigid members connected by pin joints. Based on the linkage layout, the system has one degree of freedom (1 DOF), meaning the entire motion is governed by a single input.
-(kinematic figures)
+(see figures)
 
 ## Preliminary Failure Mode Review
 
