@@ -11,7 +11,7 @@ MAE 342
 
 ## Executive Summary
 
-This project aims to design and 3D print a retractable and deployable rigid-strut landing gear, intended for kinematic evaluation and preliminary structural and failure analysis. The design implicitly represents a wide-body commercial aircraft main landing gear.
+ This project aims to design and 3D print a retractable and deployable rigid-strut landing gear, intended for kinematic evaluation and preliminary structural and failure analysis. The design implicitly represents a wide-body commercial aircraft main landing gear.
 Some simplifications to note are that the design replaces hydraulic actuation with a motor-powered linkage mechanism that supports and deploys the rigid strut. This allows the team to focus on the mechanical motion of the system and how loads are carried through the structure. The landing gear is analyzed at full scale using hand calculations and simulation tools such as ANSYS to evaluate stresses, motion, and potential failure modes under realistic loads.
 
 ## System Function and Decomposition
@@ -29,16 +29,16 @@ The system is designed using full-scale loads representative of a wide-body comm
 The landing gear system is composed of a small number of rigid components connected by pin joints to allow rotation during deployment and retraction (see scaled figure).
 Sketch dimensions are intended for prototype demonstration. Primary components (as shown in figure)
 
-Wheel Leg / Oleo  
+**Wheel Leg / Oleo**  
 Main rigid strut of the landing gear.Carries the wheel assembly and primary loads  
 
-Long Bar  
+**Long Bar**  
 Part of the linkage mechanism. Controls the motion of the wheel leg during retraction and deployment.
 
-Short Bar  
+**Short Bar**  
 Works with the long bar to guide the rotation path. Helps constrain the mechanism motion.
 
-Clamp  
+**Clamp**  
 Connects the linkage to the wheel leg. Transfers motion and loads between the linkage and main strut  
 
 Note - Pin joints are assumed at all rotating connections but are not shown in detail. Wheels and small hardware are omitted for clarity. The simplified component layout allows the mechanism motion and load paths to be analyzed without unnecessary complexity.
