@@ -11,12 +11,13 @@ This project aims to design and 3D print a retractable and deployable rigid-stru
 Some simplifications to note are that the design replaces hydraulic actuation with a motor-powered linkage mechanism that supports and deploys the rigid strut. This allows the team to focus on the mechanical motion of the system and how loads are carried through the structure. The landing gear is analyzed at full scale using hand calculations and simulation tools such as ANSYS to evaluate stresses, motion, and potential failure modes under realistic loads.
 
 ## System Function and Decomposition
-Primary Function
+#Primary Function
 
 To support the aircraft during ground operations and to deploy and retract the gear during flight and landing. In the deployed position, the rigid strut and wheel assembly carry landing and taxi loads and transfer them into the aircraft structure. In the retracted position, the gear folds into the wheel well to reduce drag.
 The system is designed using full-scale loads representative of a wide-body commercial aircraft.
 
-## Decomposition
+#Decomposition
+
 The landing gear system is composed of a small number of rigid components connected by pin joints to allow rotation during deployment and retraction (see scaled figure).
 Sketch dimensions are intended for prototype demonstration. Primary components (as shown in figure)
 
