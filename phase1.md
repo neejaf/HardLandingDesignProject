@@ -17,8 +17,9 @@ Some simplifications to note are that the design replaces hydraulic actuation wi
 ## System Function and Decomposition
 **Primary Function**
 
-To support the aircraft during ground operations and to deploy and retract the gear during flight and landing. In the deployed position, the rigid strut and wheel assembly carry landing and taxi loads and transfer them into the aircraft structure. In the retracted position, the gear folds into the wheel well to reduce drag.
-The system is designed using full-scale loads representative of a wide-body commercial aircraft.
+  The primary function of this landing gear is to provide rigid structural support for an aircraft during all ground operations. This includes taxiing, takeoff, and landings of all intensities. When deployed, the main rigid strut, or oleo, and wheel assembly are designed to absorb and redirect the loadings from landing into the airframe. The rigid design was selected so the Hard Landing team may prioritize understanding the mechanical motion and loading paths through a landing gear. Moreover, this allows the team to ensure the gear maintains its integrity while simulating realistic aircraft loading conditions in the aerospace industry. 
+  In addition to the structural support the structure must provide, landing gear must reliably retract and deploy over repeated cycles. When the aircraft is airborne, a motor will rotate and fold the landing gear assembly into the wheel well housing, all under a single degree of freedom. A single degree of freedom ensures a smooth retracting and deploying transition along a repeated kinematic path. The overall result of a retracting landing gear allows the assembly to reduce aerodynamic drag to optimize fuel efficiency and overall flight performance. 
+
 
 
 <p align="center">
