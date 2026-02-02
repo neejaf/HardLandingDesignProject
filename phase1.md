@@ -1,6 +1,8 @@
 # Phase One: Project Report  
 Hard Landing – Landing Gear Project  
+
 ![System sketch](figures/phase1/iso2cad.png)
+
 Aiden Beam, Jack Bessette, Ben Kolecki, Hunter Sam, Evan Morris, Nordin Jafar  
 Arizona State University  
 MAE 342  
