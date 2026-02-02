@@ -64,6 +64,14 @@ Note - Pin joints are assumed at all rotating connections but are not shown in d
 -The landing gear mechanism is a planar linkage system composed of rigid members connected by pin joints. Based on the linkage layout, the system has one degree of freedom (1 DOF), meaning the entire motion is governed by a single input.
 (see figures)
 
+<a href="figures/phase1/hunterkinematicspg1.jpg">
+  <img src="figures/phase1/hunterkinematicspg1.jpg" width="150">
+</a>
+
+<a href="figures/phase1/hunterkinematicspg2.jpg">
+  <img src="figures/phase1/hunterkinematicspg2.jpg" width="150">
+</a>
+
 ## Preliminary Failure Mode Review
 
 **Static overload (primarily in the main leg)**  
