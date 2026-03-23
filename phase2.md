@@ -26,6 +26,7 @@ Phase 2 report outline:
 - Overview of your final design (with key CAD images)
   
 - Description of major design decisions and changes from Phase 1
+
       - Increased wheel count to more closely resemble inspiration.
       - 
   
