@@ -7,21 +7,15 @@ Hard Landing – Landing Gear Project
 
 <p align="center">
 Aiden Beam, Jack Bessette, Ben Kolecki, Evan Morris, Nordin Jafar 
-
+<p align="center">
 Arizona State University
-
-MAE 342  
+  </p>
+<p align="center">
+MEE 342  
+  </p>
 </p>
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
 Phase 2 report outline:
 - Overview of your final design (with key CAD images)
   
