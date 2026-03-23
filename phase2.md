@@ -1,3 +1,17 @@
+# Phase One: Project Report  
+Hard Landing – Landing Gear Project  
+
+<p align="center">
+  <img src="figures/phase1/iso2cad.png" alt="System sketch">
+</p>
+
+Aiden Beam, Jack Bessette, Ben Kolecki, Hunter Sam, Evan Morris, Nordin Jafar  
+Arizona State University  
+MAE 342  
+
+
+
+
 Phase 2 report:
 - Overview of your final design (with key CAD images)
   
