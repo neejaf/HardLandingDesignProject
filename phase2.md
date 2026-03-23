@@ -6,7 +6,7 @@ Hard Landing – Landing Gear Project
 </p>
 
 <p align="center">
-  <img src="figures/phase2/Screenshot 2026-03-20102421.png">
+  <img src="figures/phase2/Screenshot 2026-03-23 134332.png">
 </p>
 
 Aiden Beam, Jack Bessette, Ben Kolecki, Evan Morris, Nordin Jafar  
