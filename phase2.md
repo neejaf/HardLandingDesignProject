@@ -6,8 +6,10 @@ Hard Landing – Landing Gear Project
 </p>
 
 <p align="center">
-Aiden Beam, Jack Bessette, Ben Kolecki, Evan Morris, Nordin Jafar  
-Arizona State University  
+Aiden Beam, Jack Bessette, Ben Kolecki, Evan Morris, Nordin Jafar 
+
+Arizona State University
+
 MAE 342  
 </p>
 
