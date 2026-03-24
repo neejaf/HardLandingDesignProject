@@ -41,7 +41,7 @@ Landing gear deployment/retraction sequence
   <p align="center">
 full 3D assembly:
 
-  [watch the assembly video](https://github.com/user-attachments/assets/1ea6ecc0-61c9-4986-abf0-6ba1f8d748a0)
+  [watch the assembly video](https://github.com/user-attachments/assets/a2dc4aa6-550e-4249-b24c-30bdd2203265)
     
 - drawings and views
 - printability
