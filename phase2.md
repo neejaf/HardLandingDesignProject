@@ -31,7 +31,7 @@ This motor will read signals from an Arduino to rotate on its axis, extending an
 	
 **Landing gear deployment/retraction sequence**
 <p align="center">
-  [watch the assembly video](![Image](https://github.com/user-attachments/assets/40a034cb-c734-499a-afc4-3781faa09988))
+  [watch the assembly video](https://github.com/user-attachments/assets/1457b537-9793-4a6c-9d4a-dacb4869e19a)
 </p>
   <p align="center">
 <br>
