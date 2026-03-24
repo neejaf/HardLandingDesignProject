@@ -71,12 +71,12 @@ Mesh
 	<br>
 Added Force
 
-	<img src="figures/phase2/Force acting.png">
+<img src="figures/phase2/Force acting.png">
 <br>
 <br> 
 Total Deformation
 	
-	<img src="figures/phase2/Total_Deformation.png">
+<img src="figures/phase2/Total_Deformation.png">
 	
 ## **Updated list of anticipated risks or weaknesses to be addressed in prototyping**
   
