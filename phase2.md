@@ -27,6 +27,7 @@ This motor will read signals from an Arduino to rotate on its axis, extending an
 <br>
 <br>
 
+**Printablility**
 	
 **Landing gear deployment/retraction sequence**
 <p align="center">
@@ -99,12 +100,12 @@ Smallest factor of safety
 ## **Checklist-(2 astrisks is what we have done)** 
 
 	-full 3D assembly**
-	-drawings and views
+	-drawings and views (Need from Ben)
 	-printability
 	-static stress and factor of safety**
-	-Fatigue
-	-key/coupling/interface stresses
-	-bearing load check
-	-global safety overview
+	-Fatigue (Need from Aiden)
+	-key/coupling/interface stresses (Need from Aiden) 
+	-bearing load check**
+	-global safety overview 
 <br>
 <br>
