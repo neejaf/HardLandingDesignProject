@@ -27,10 +27,10 @@ This aircraft landing gear was modeled based off a simplified version of a large
 This motor will read signals from an Arduino to rotate on its axis, extending and folding up the landing gear. 
 <br>
 <br>
-<p align="center">
+
 	
 **Landing gear deployment/retraction sequence**
-
+<p align="center">
   [watch the assembly video](https://github.com/user-attachments/assets/f703558e-a32c-4ffb-83fe-0b2da9233488)
   
   <p align="center">
@@ -39,7 +39,7 @@ This motor will read signals from an Arduino to rotate on its axis, extending an
 	  
 **full 3D assembly**
 
-  [watch the assembly video](https://github.com/user-attachments/assets/a2dc4aa6-550e-4249-b24c-30bdd2203265)
+	[watch the assembly video](https://github.com/user-attachments/assets/a2dc4aa6-550e-4249-b24c-30bdd2203265)
 <br>
 <br>
 
@@ -54,36 +54,7 @@ Increased wheel count to more closely resemble inspiration
 interfaces, etc.) with clear assumptions and results
 
 - Discussion of design for assembly and design for 3D printing
-  
-## **Updated list of anticipated risks or weaknesses to be addressed in prototyping**
-  
-<br>
-<br>
-	
-## **Landing gear deployment/retraction sequence**
-
-  [watch the assembly video](https://github.com/user-attachments/assets/f703558e-a32c-4ffb-83fe-0b2da9233488)
-  
-  <p align="center">
-<br>
-	  <br>
-	  
-## **full 3D assembly**
-
-  [watch the assembly video](https://github.com/user-attachments/assets/a2dc4aa6-550e-4249-b24c-30bdd2203265)
-<br>
-<br>
-
-## **drawings and views**
-<br>
-<br>
-
-## **printability**
-<br>
-<br>
-
-## **static stress and factor of safety**
-<br>
+  <br>
 <br>
 Von-Mises Equivalent stress
   <img src="figures/phase2/Equivalent stress.png">
@@ -93,28 +64,29 @@ Factor of Safety
 	<img src="figures/phase2/Factor of saftey.png">
 <br>
 <br>
-
-## **Fatigue** 
-  <p align="center">
-	  <br>
-	  <br>
-	  
-## **key/coupling/interface stresses**
-<br>
-<br>
-
-## **bearing load check**
-<br>
-<br>
 Added Force
-<p align="center">
-<img src="figures/phase2/Force acting.png">
+	<p align="center">
+	<img src="figures/phase2/Force acting.png">
 <br>
 <br> 
 Total Deformation
-<p align="center">
-<img src="figures/phase2/Total_Deformation.png">
+	<p align="center">
+	<img src="figures/phase2/Total_Deformation.png">
 	
-## **global safety overview**
+## **Updated list of anticipated risks or weaknesses to be addressed in prototyping**
+  
+<br>
+<br>
+
+## **Checklist-(2 astrixs is what we have done)** 
+
+	-full 3D assembly**
+	-drawings and views
+	-printability
+	-static stress and factor of safety**
+	-Fatigue
+	-key/coupling/interface stresses
+	-bearing load check
+	-global safety overview
 <br>
 <br>
