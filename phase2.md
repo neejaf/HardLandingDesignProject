@@ -44,7 +44,7 @@ This motor will read signals from an Arduino to rotate on its axis, extending an
 	
 [watch the assembly video](https://github.com/user-attachments/assets/a2dc4aa6-550e-4249-b24c-30bdd2203265)
 
-	</p>
+
 <br>
 <br>
 
