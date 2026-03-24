@@ -79,7 +79,8 @@ Total Deformation
 <img src="figures/phase2/Total_Deformation.png">
 	
 ## **Updated list of anticipated risks or weaknesses to be addressed in prototyping**
-  
+Smallest factor of safety
+<img src="figures/phase2/Minimum_safety_factor.png">
 <br>
 <br>
 
