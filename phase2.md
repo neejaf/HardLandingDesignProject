@@ -42,36 +42,47 @@ interfaces, etc.) with clear assumptions and results
   
 
 <p align="center">
-Landing gear deployment/retraction sequence
+	
+## **Landing gear deployment/retraction sequence**
 
   [watch the assembly video](https://github.com/user-attachments/assets/f703558e-a32c-4ffb-83fe-0b2da9233488)
   
   <p align="center">
-full 3D assembly:
+	  
+## **full 3D assembly:**
 
   [watch the assembly video](https://github.com/user-attachments/assets/a2dc4aa6-550e-4249-b24c-30bdd2203265)
     
-- drawings and views
+## **drawings and views**
 - printability
 
   <p align="center">
-static stress and factor of safety
+## **static stress and factor of safety**
 <br>
 <br>
 Von-Mises Equivalent stress
   <p align="center">
-  
+  <img src="figures/phase2/Equivalent stress.png">
 Factor of safety
     <p align="center">
-	
-Fatigue
+	<img src="figures/phase2/Factor of saftey.png">
+<p align="center"> 
+
+## **Fatigue** 
   <p align="center">
 	  
 - key/coupling/interface stresses
 <br>
-bearing load check
+## **bearing load check**
 <br>
 <br>
-
-
-- global safety overview
+Added Force
+<p align="center">
+<img src="figures/phase2/Force acting.png">
+<br>
+<br> 
+Total Deformation
+<p align="center">
+<img src="figures/phase2/Total_Deformation.png">
+	
+## **global safety overview**
