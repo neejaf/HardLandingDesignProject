@@ -33,8 +33,9 @@ interfaces, etc.) with clear assumptions and results
 - Updated list of anticipated risks or weaknesses to be addressed in prototyping
   
 
-CAD requirements:
-- full 3D assembly
+<p align="center">
+full 3D assembly
+[watch the assembly video](https://github.com/user-attachments/assets/f703558e-a32c-4ffb-83fe-0b2da9233488)
 - drawings and views
 - printability
 
