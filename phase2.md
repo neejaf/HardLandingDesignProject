@@ -34,9 +34,15 @@ interfaces, etc.) with clear assumptions and results
   
 
 <p align="center">
-full 3D assembly
+Landing gear deployment/retraction sequence
 
   [watch the assembly video](https://github.com/user-attachments/assets/f703558e-a32c-4ffb-83fe-0b2da9233488)
+  
+  <p align="center">
+full 3D assembly:
+
+
+    
 - drawings and views
 - printability
 
