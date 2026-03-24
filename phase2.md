@@ -19,7 +19,7 @@ MEE 342
 Phase 2 report outline: <br>
 - Overview of your final design (with key CAD images)  
 
-This aircraft landing gear was modeled based off a simplified version of a large airliner landing gear.
+This aircraft landing gear was modeled based off a simplified version of a large airliner landing gear. During taxi, takeoff, and landing the landing gear will be in its vertical, locked position, and during flight will retract to allow increased aerodynamic performance.
   
 - Description of major design decisions and changes from Phase 1<br>
   --Increased wheel count to more closely resemble inspiration.
