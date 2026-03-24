@@ -39,7 +39,10 @@ This motor will read signals from an Arduino to rotate on its axis, extending an
 <br>
 	  <br>
 	  
-**full 3D assembly**
+**Full 3D Assembly**
+<p align="center">
+	<img src="figures/phase2/Landing Gear Exploded View.pdf">
+	<p/>
 <p align="center">
 	
 [watch the assembly video](https://github.com/user-attachments/assets/a2dc4aa6-550e-4249-b24c-30bdd2203265)
