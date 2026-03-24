@@ -52,9 +52,24 @@ full 3D assembly:
 - drawings and views
 - printability
 
-required analyses:
-- static stress and factor of safety
-- fatigue
+  <p align="center">
+static stress and factor of safety
+<br>
+<br>
+Von-Mises Equivalent stress
+  <p align="center">
+  
+Factor of safety
+    <p align="center">
+	
+Fatigue
+  <p align="center">
+	  
 - key/coupling/interface stresses
-- bearing load check
+<br>
+bearing load check
+<br>
+<br>
+
+
 - global safety overview
