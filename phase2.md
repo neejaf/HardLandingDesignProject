@@ -23,7 +23,7 @@ This aircraft landing gear was modeled based off a simplified version of a large
   <img src="figures/phase2/front_view.png">
 </p>
 <br>
-This motor will read signals from an Arduino to rotate on its axis, extending and folding up the landing gear. These rotations will occur between two fixed angle measurements (ensured by mechanical locks) to ensure proper positioning/orientation at all times.
+This motor will read signals from an Arduino to rotate on its axis, extending and folding up the landing gear. These rotations will occur between two fixed angle measurements (ensured by mechanical locks) to ensure proper positioning/orientation at all times. Both the top of the strut and motor itself 
 <br>
 <br>
 
