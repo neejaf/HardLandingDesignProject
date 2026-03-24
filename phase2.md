@@ -16,7 +16,6 @@ MEE 342
 </p>
 <br>
 <br>
-Phase 2 report outline: <br>
 - Final Design Overview (with key CAD images)  
 This aircraft landing gear was modeled based off a simplified version of a large airliner landing gear. During taxi, takeoff, and landing the landing gear will be in its vertical, locked position, and during flight will retract to allow increased aerodynamic performance. Our design consists of three main sections: the strut/wheels that provide the main support for the aircraft, and the two bar linkage connected to a motor that controls the motion of the entire system. 
   
