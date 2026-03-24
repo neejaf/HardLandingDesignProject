@@ -61,7 +61,7 @@ Increased wheel count to more closely resemble inspiration
 
   
   
-## **Detailed Explanation of Required Analyses (shaft, gear, fatigue, bearingsinterfaces, etc.) with clear assumptions and results**
+## **Detailed Explanation of Required Analyses (shaft, gear, fatigue, bearings, interfaces, etc.) with Clear Assumptions and Results**
 
 - Discussion of design for assembly and design for 3D printing
   <br>
