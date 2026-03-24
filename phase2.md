@@ -19,10 +19,12 @@ MEE 342
 Phase 2 report outline: <br>
 - Overview of your final design (with key CAD images)  
 
-This aircraft landing gear was modeled based off a simplified version of a large airliner landing gear. During taxi, takeoff, and landing the landing gear will be in its vertical, locked position, and during flight will retract to allow increased aerodynamic performance. Our design consists of two main sections: the strut/wheels that provide the main support, and the two bar linkage that controls the motion of the entire system.
+This aircraft landing gear was modeled based off a simplified version of a large airliner landing gear. During taxi, takeoff, and landing the landing gear will be in its vertical, locked position, and during flight will retract to allow increased aerodynamic performance. Our design consists of three main sections: the strut/wheels that provide the main support for the aircraft, and the two bar linkage connected to a motor that controls the motion of the entire system. 
   
 - Description of major design decisions and changes from Phase 1<br>
-  --Increased wheel count to more closely resemble inspiration.
+Increased wheel count to more closely resemble inspiration  
+	-Adding three more wheels makes our model more similar to that of many commercial airliners who's landing gear we want to replicate. This allows our calculations and simulations to be much more accurate to resemble real world conditions. Also, an even number of wheels allows for a more balanced model, so it will more easily be able to stand and hold weight without an unintended failure.
+
   
   
 - Detailed explanation of required analyses (shaft, gear, fatigue, bearings,
