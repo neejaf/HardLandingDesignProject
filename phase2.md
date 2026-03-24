@@ -16,11 +16,13 @@ MEE 342
 </p>
 <br>
 <br>
-Phase 2 report outline:
-- Overview of your final design (with key CAD images)
+Phase 2 report outline: <br>
+- Overview of your final design (with key CAD images)  
+
+This aircraft landing gear was modeled based off a simplified version of a large airliner landing gear.
   
 - Description of major design decisions and changes from Phase 1<br>
-  Increased wheel count to more closely resemble inspiration.
+  --Increased wheel count to more closely resemble inspiration.
   
   
 - Detailed explanation of required analyses (shaft, gear, fatigue, bearings,
