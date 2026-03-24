@@ -16,7 +16,7 @@ MEE 342
 </p>
 <br>
 <br>
-Final Design Overview <br>
+**Final Design Overview** <br>
 This aircraft landing gear was modeled based off a simplified version of a large airliner landing gear. During taxi, takeoff, and landing the landing gear will be in its vertical, locked position, and during flight will retract to allow increased aerodynamic performance. Our design consists of three main sections: the strut/wheels that provide the main support for the aircraft, and the two bar linkage connected to a motor that controls the motion of the entire system. <br>
 <br>
 <p align="center">
@@ -26,7 +26,7 @@ This aircraft landing gear was modeled based off a simplified version of a large
 This motor will read signals from an Arduino to rotate on its axis
 
   
-- Description of major design decisions and changes from Phase 1<br>
+**- Description of major design decisions and changes from Phase 1**<br>
 Increased wheel count to more closely resemble inspiration  
 	-Adding three more wheels makes our model more similar to that of many commercial airliners who's landing gear we want to replicate. This allows our calculations and simulations to be much more accurate to resemble real world conditions. Also, an even number of wheels allows for a more balanced model, so it will more easily be able to stand and hold weight without an unintended failure.
 
