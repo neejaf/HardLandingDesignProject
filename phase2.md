@@ -62,7 +62,7 @@ Increased wheel count to more closely resemble inspiration
 
   
   
-## **Detailed explanation of required analyses (shaft, gear, fatigue, bearings)**
+## **Detailed Explanation of Required Analyses (shaft, gear, fatigue, bearings)**
 interfaces, etc.) with clear assumptions and results
 
 - Discussion of design for assembly and design for 3D printing
@@ -90,13 +90,13 @@ Total Deformation
 	
 <img src="figures/phase2/Total_Deformation.png">
 	
-## **Updated list of anticipated risks or weaknesses to be addressed in prototyping**
+## **Updated List of Anticipated Risks or Weaknesses to be Addressed in Prototyping**
 Smallest factor of safety
 <img src="figures/phase2/Minimum_safety_factor.png">
 <br>
 <br>
 
-## **Checklist-(2 astrixs is what we have done)** 
+## **Checklist-(2 astrisks is what we have done)** 
 
 	-full 3D assembly**
 	-drawings and views
