@@ -41,39 +41,53 @@ interfaces, etc.) with clear assumptions and results
   
 - Updated list of anticipated risks or weaknesses to be addressed in prototyping
   
-
-<p align="center">
+<br>
+<br>
 	
 ## **Landing gear deployment/retraction sequence**
 
   [watch the assembly video](https://github.com/user-attachments/assets/f703558e-a32c-4ffb-83fe-0b2da9233488)
   
   <p align="center">
+<br>
+	  <br>
 	  
-## **full 3D assembly:**
+## **full 3D assembly**
 
   [watch the assembly video](https://github.com/user-attachments/assets/a2dc4aa6-550e-4249-b24c-30bdd2203265)
-    
-## **drawings and views**
-- printability
+<br>
+<br>
 
-  <p align="center">
+## **drawings and views**
+<br>
+<br>
+
+## **printability**
+<br>
+<br>
+
 ## **static stress and factor of safety**
 <br>
 <br>
 Von-Mises Equivalent stress
   <p align="center">
   <img src="figures/phase2/Equivalent stress.png">
-Factor of safety
+<br>
+Factor of Safety
     <p align="center">
 	<img src="figures/phase2/Factor of saftey.png">
-<p align="center"> 
+<br>
+<br>
 
 ## **Fatigue** 
   <p align="center">
+	  <br>
+	  <br>
 	  
-- key/coupling/interface stresses
+## **key/coupling/interface stresses**
 <br>
+<br>
+
 ## **bearing load check**
 <br>
 <br>
@@ -87,3 +101,5 @@ Total Deformation
 <img src="figures/phase2/Total_Deformation.png">
 	
 ## **global safety overview**
+<br>
+<br>
