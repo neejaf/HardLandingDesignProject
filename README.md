@@ -4,5 +4,5 @@ This repository contains all materials for the MEE 342 landing gear design proje
 
 ## Project Phases
 - [Phase 1 – System Description and Kinematics](phase1.md)
-- [Phase 2 – Final Design Overview and Analysis](phase2.md)
+- [Phase 2 – Detailed CAD Design and Engineering Analysis](phase2.md)
 - Phase 3 – (to be added)
