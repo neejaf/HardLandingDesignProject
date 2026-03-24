@@ -56,6 +56,7 @@ interfaces, etc.) with clear assumptions and results
 - Discussion of design for assembly and design for 3D printing
   <br>
 <br>
+<p align="center">
 Von-Mises Equivalent stress
   <img src="figures/phase2/Equivalent stress.png">
 <br>
@@ -64,13 +65,17 @@ Factor of Safety
 	<img src="figures/phase2/Factor of saftey.png">
 <br>
 <br>
+Mesh
+	<img src="figures/phase2/Mesh.png">
+	<br>
+	<br>
 Added Force
-	<p align="center">
+
 	<img src="figures/phase2/Force acting.png">
 <br>
 <br> 
 Total Deformation
-	<p align="center">
+	
 	<img src="figures/phase2/Total_Deformation.png">
 	
 ## **Updated list of anticipated risks or weaknesses to be addressed in prototyping**
