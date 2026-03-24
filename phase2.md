@@ -21,6 +21,7 @@ This aircraft landing gear was modeled based off a simplified version of a large
 <br>
 <p align="center">
   <img src="figures/phase2/front_view.png">
+</p>
 <br>
 This motor will read signals from an Arduino to rotate on its axis
 
