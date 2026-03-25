@@ -149,15 +149,17 @@ Smallest factor of safety
 <br>
 <br>
 
-## **CAD Drawings - Critical Component and Exploded View**
+## **CAD Drawings - Critical Components and Exploded View**
 
 <table align="center">
   <tr>
     <td><img src="figures/phase2/CriticalComponent.png" width="400"></td>
+	<td><img src="figures/phase2/CriticalComponent2.png" width="400"></td>
     <td><img src="figures/phase2/ExplodedView.png" width="400"></td>
   </tr>
   <tr>
-	<td align="center"><em>Critical Component</em></td>
+	<td align="center"><em>Oleo</em></td>
+	<td align="center"><em>Bogie</em></td>
     <td align="center"><em>Exploded View</em></td>
   </tr>
   </table>
