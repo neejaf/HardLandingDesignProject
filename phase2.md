@@ -40,10 +40,6 @@ Overall, the design focuses on realistic load distribution, efficient force tran
 	<img src="figures/phase2/side view.png" width="600"></td>
 	<p/>
 
-<br>
-This motor will read signals from an Arduino to rotate on its axis, extending and folding up the landing gear. These rotations will occur between two fixed-angle measurements (ensured by mechanical locks) to ensure proper positioning/orientation at all times. Both the motor itself and the top pin on the strut will be fixed to the structure of the plane wing and will not move.
-<br>
-
 ### **Landing gear deployment/retraction sequence**
 <p align="center">
 Isometric View
