@@ -56,7 +56,7 @@ Frontal View
 	  
 **Full 3D Assembly**
 <p align="center">
-	[View the PDF](HardLandingDesignProject/figures/phase2/Landing Gear Exploded View.pdf)
+	(insert 3D assembly)
 	<p/>
 <p align="center">
 	
@@ -69,10 +69,10 @@ Frontal View
   
 ## **Description of Major Design Decisions and Changes from Phase 1**<br>
 *Increased wheel count to more closely resemble inspiration*  
-	-Adding three more wheels makes our model more similar to that of many commercial airliners who's landing gear we want to replicate. This allows our calculations and simulations to be much more accurate to resemble real world conditions. Also, an even number of wheels allows for a more balanced model, so it will more easily be able to stand and hold weight without an unintended failure. (Along with this includes changes to the entire wheel base to accompany more wheels) <br>
+	-Adding three more wheels makes our model more similar to that of many commercial airliners, whose landing gear we want to replicate. This allows our calculations and simulations to be much more accurate to resemble real world conditions. Also, an even number of wheels allows for a more balanced model, so it will more easily be able to stand and hold weight without an unintended failure. (Along with this includes changes to the entire wheel base to accompany more wheels) <br>
 <br>
-*Improved harness connecting two bar linkage to main strut* <br>
-	-Updated design is able to handle stronger loads, thus resulting in a higher factor of safety of the overall assembly.
+*Improved harness connecting two-bar linkage to main strut* <br>
+	-The updated design is able to handle stronger loads, thus resulting in a higher factor of safety of the overall assembly.
 
 
 
@@ -89,7 +89,13 @@ Frontal View
 <br>
 <p align="center">
 Von-Mises Equivalent stress
-  <img src="figures/phase2/Equivalent stress.png">
+<table align="center">
+  <tr>
+    <td><img src="figures/phase2/1 new equivalent stress.png" width="400"></td>
+    <td><img src="figures/phase2/2 new equivalent stress.png" width="400"></td>
+  </tr>
+  <tr>>
+</table>
 <br>
 <br>
 Factor of Safety
