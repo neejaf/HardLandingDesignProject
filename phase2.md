@@ -145,7 +145,7 @@ Deformation
 <br>
 ## **Updated List of Anticipated Risks or Weaknesses to be Addressed in Prototyping**
 Smallest factor of safety
-<img src="figures/phase2/Minimum_safety_factor.png">
+<td><img src="figures/phase2/Minimum_safety_factor.png" width="400"></td>
 <br>
 <br>
 
