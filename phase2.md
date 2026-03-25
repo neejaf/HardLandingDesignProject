@@ -38,6 +38,14 @@ Not including the tires, each and every CAD part in our assembly is 3D printable
 <p align="center">
 	
 [watch the assembly video](https://github.com/user-attachments/assets/6c1ffd8b-b0af-4d7d-89b4-459098cd728c)
+
+<table align="center">
+  <tr>
+    <td><[watch the assembly video](https://github.com/user-attachments/assets/6c1ffd8b-b0af-4d7d-89b4-459098cd728c) width="400"></td>
+    <td><[watch the assembly video](https://github.com/user-attachments/assets/f484d572-f8e7-468a-845d-adacea77aa67) width="400"></td>
+  </tr>
+  <tr>>
+</table>
 	
 </p>
   <p align="center">
