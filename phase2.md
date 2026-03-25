@@ -44,7 +44,9 @@ Frontal View
 <br>
 	
 [watch the assembly video](https://github.com/user-attachments/assets/f484d572-f8e7-468a-845d-adacea77aa67)
-
+<p align="center">
+	<img src="figures/phase2/StraightFrontView.png" width="600"></td>
+	<p/>
 <br>
 </p>
 <p align="center">
@@ -54,7 +56,7 @@ Frontal View
 </p>
   <p align="center">
 <br>
-	  <br>
+
 	  
 **Full 3D Assembly**
 <p align="center">
@@ -79,8 +81,8 @@ Frontal View
 	-The updated design is able to handle stronger loads, thus resulting in a higher factor of safety of the overall assembly.
 
 ## **Discussion of Design for Assembly and Design for 3D Printing**
-<br>
-Not including the tires, each and every CAD part in our assembly is 3D printable. We will vary the orientation of each part when printing to promote ease of printing, and also to ensure orientation of the layer lines promotes maximum strength in the direction of loading. In Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made with PLA filament.<br>
+
+Not including the tires, each and every CAD part in our assembly is 3D printable. We will vary the orientation of each part when printing to promote ease of printing, and also to ensure the orientation of the layer lines promotes maximum strength in the direction of loading. In Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made with PLA filament.<br>
 <br>
   
 ## **Detailed Explanation of Required Analyses (shaft, gear, fatigue, bearings, interfaces, etc.) with Clear Assumptions and Results**
@@ -88,7 +90,9 @@ Not including the tires, each and every CAD part in our assembly is 3D printable
 
   <br>
 <br>
-<p align="center">
+
+**Extended Analysis**
+
 Von-Mises Equivalent stress
 <table align="center">
   <tr>
@@ -127,7 +131,17 @@ Added Force
 Total Deformation
 	
 <img src="figures/phase2/new_total_deformation.png">
-	
+
+**Retracted Analysis**
+Equivalent Stress
+<img src="figures/phase2/Equivalent stress when up.png">
+<br>
+Factor of Safety
+<img src="figures/phase2/FOS when up.png">
+<br>
+Deformation
+<img src="figures/phase2/Deformation when up.png">
+<br>
 ## **Updated List of Anticipated Risks or Weaknesses to be Addressed in Prototyping**
 Smallest factor of safety
 <img src="figures/phase2/Minimum_safety_factor.png">
