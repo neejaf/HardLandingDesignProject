@@ -46,8 +46,8 @@ Frontal View
 <br>
 
 <p align="center">
-	<img src="figures/phase2/StraightFrontView.png" width="400"></td>
-	<img src="figures/phase2/FoldedFrontView.png" width="400"></td>
+	<img src="figures/phase2/StraightFrontView.png" width="500"></td>
+	<img src="figures/phase2/FoldedFrontView.png" width="500"></td>
 	<p/>
 	
 </p>
