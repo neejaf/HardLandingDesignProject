@@ -106,9 +106,6 @@ Fatigue analysis
     <td align="center"><em>Fatigue Factor of safety</em></td>
   </tr>	  
 </table>
-<br>
-Mesh
-	(insert here)
 	<br>
 	<br>
 Added Force
