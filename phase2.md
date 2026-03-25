@@ -17,8 +17,6 @@ Arizona State University
 <p align="center">
 MEE 342  
   </p>
-<br>
-<br>
 
 ## **Final Design Overview**
 This aircraft landing gear was modeled based off a simplified version of a large airliner landing gear. During taxi, takeoff, and landing the landing gear will be in its vertical, locked position, and during flight will retract to allow increased aerodynamic performance. Our design consists of three main sections: the strut/wheels that provide the main support for the aircraft, and the two bar linkage connected to a motor that controls the motion of the entire system. <br>
