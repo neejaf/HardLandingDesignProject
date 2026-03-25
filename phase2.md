@@ -23,14 +23,18 @@ MEE 342
 ## **Final Design Overview**
 This aircraft landing gear was modeled based off a simplified version of a large airliner landing gear. During taxi, takeoff, and landing the landing gear will be in its vertical, locked position, and during flight will retract to allow increased aerodynamic performance. Our design consists of three main sections: the strut/wheels that provide the main support for the aircraft, and the two bar linkage connected to a motor that controls the motion of the entire system. <br>
 <br>
-<p align="center">
-  <img src="figures/phase2/ExplodedView.png" width="600"></td>
-</p>
+
 
 <br>
 This motor will read signals from an Arduino to rotate on its axis, extending and folding up the landing gear. These rotations will occur between two fixed-angle measurements (ensured by mechanical locks) to ensure proper positioning/orientation at all times. Both the motor itself and the top pin on the strut will be fixed to the structure of the plane wing and will not move.
 
 <br>
+<p align="center">
+	<img src="figures/phase2/isometric view.png" width="300"></td>
+	<p/>
+<p align="center">
+	<img src="figures/phase2/FolsedIsoView.png" width="300"></td>
+	<p/>
 <br>
 <p align="center">
 	<img src="figures/phase2/side view.png" width="600"></td>
@@ -62,7 +66,9 @@ Frontal View
 	  
 **Full 3D Assembly**
 <p align="center">
-	(insert 3D assembly)
+	<p align="center">
+  <img src="figures/phase2/ExplodedView.png" width="600"></td>
+<p/>
 	<p/>
 <p align="center">
 	
