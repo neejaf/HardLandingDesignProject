@@ -42,6 +42,7 @@ Isometric View
 [watch the assembly video](https://github.com/user-attachments/assets/6c1ffd8b-b0af-4d7d-89b4-459098cd728c)
 
 <br>
+<p align="center">
 Frontal View
 <br>
 	
