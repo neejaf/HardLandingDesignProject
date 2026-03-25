@@ -57,7 +57,6 @@ Frontal View
   <img src="figures/phase2/ExplodedView.png" width="600"></td>
 <p/>
 	<p/>
-<p align="center">
 	
 <br>  
 ## **Description of Major Design Decisions and Changes from Phase 1**<br>
