@@ -144,11 +144,12 @@ Smallest factor of safety
 	<td align="center"><em>Critical Component</em></td>
     <td align="center"><em>Exploded View</em></td>
   </tr>
+  </table>
 
 ## **Checklist-(2 astrisks is what we have done)** 
 
 	-full 3D assembly**
-	-drawings and views (Need from Ben)
+	-drawings and views (Need from Ben)**
 	-printability
 	-static stress and factor of safety**
 	-Fatigue (Need from Aiden)
