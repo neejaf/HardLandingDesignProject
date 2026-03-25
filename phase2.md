@@ -1,18 +1,12 @@
 # Phase Two: Project Report  
 Hard Landing – Landing Gear Project  
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div>
-      <img src="figures/phase2/isometric view.png" width="400">
-      <br><em>Left caption</em>
-    </div>
-    <div>
-      <img src="figures/phase2/other isometric view.png" width="400">
-      <br><em>Right caption</em>
-    </div>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td><img src="figures/phase2/isometric view.png" width="400"></td>
+    <td><img src="figures/phase2/other isometric view.png" width="400"></td>
+  </tr>
+  <tr>>
 
 <p align="center">
 Aiden Beam, Jack Bessette, Ben Kolecki, Evan Morris, Nordin Jafar 
