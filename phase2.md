@@ -99,8 +99,20 @@ Von-Mises Equivalent stress
 <br>
 <br>
 Factor of Safety
-	<img src="figures/phase2/Factor of saftey.png">
+	<img src="figures/phase2/new FOS.png">
 <br>
+<br>
+Fatigue analysis
+<table align="center">
+  <tr>
+    <td><img src="figures/phase2/Equivalent alternating stress.png" width="400"></td>
+    <td><img src="figures/phase2/Fatigue FOS.png" width="400"></td>
+  </tr>
+  <tr>
+	<td align="center"><em>Fatigue Equivalent alternating stress</em></td>
+    <td align="center"><em>Fatigue Factor of safety</em></td>
+  </tr>	  
+</table>
 <br>
 Mesh
 	<img src="figures/phase2/Mesh.png">
