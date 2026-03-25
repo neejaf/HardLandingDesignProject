@@ -76,7 +76,6 @@ Frontal View
 ## **Discussion of Design for Assembly and Design for 3D Printing**
 
 Not including the tires, each and every CAD part in our assembly is 3D printable. We will vary the orientation of each part when printing to promote ease of printing, and also to ensure the orientation of the layer lines promotes maximum strength in the direction of loading. In Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made with PLA filament.<br>
-<br>
 ## **Detailed Explanation of Required Analyses (shaft, gear, fatigue, bearings, interfaces, etc.) with Clear Assumptions and Results**
 
 
