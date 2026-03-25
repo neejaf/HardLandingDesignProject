@@ -33,7 +33,8 @@ Not including the tires, each and every CAD part in our assembly is 3D printable
 **Landing gear deployment/retraction sequence**
 <p align="center">
 	
-[watch the assembly video](https://github.com/user-attachments/assets/1457b537-9793-4a6c-9d4a-dacb4869e19a)
+[watch the assembly video]([https://github.com/user-attachments/assets/1457b537-9793-4a6c-9d4a-dacb4869e19a](https://github.com/user-attachments/assets/74b8b9ed-1b7e-4ccc-82e9-81cede429336
+https://github.com/user-attachments/assets/65a7e39e-ef68-4609-a270-f1c0f67eb2ae))
 	
 </p>
   <p align="center">
