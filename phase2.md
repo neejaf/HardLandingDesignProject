@@ -42,6 +42,7 @@ Frontal View
 <br>
 	
 [watch the assembly video](https://github.com/user-attachments/assets/f484d572-f8e7-468a-845d-adacea77aa67)
+<br>
 <p align="center">
 	<img src="figures/phase2/StraightFrontView.png" width="400"></td>
 	<img src="figures/phase2/FoldedFrontView.png" width="400"></td>
