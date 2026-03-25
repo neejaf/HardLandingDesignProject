@@ -154,7 +154,7 @@ Smallest factor of safety
 <table align="center">
   <tr>
     <td><img src="figures/phase2/CriticalComponent.png" width="400"></td>
-	<td><img src="figures/phase2/BogieDrawing.png" width="400"></td>
+	<td><img src="figures/phase2/CriticalComponent2.png" width="400"></td>
     <td><img src="figures/phase2/ExplodedView.png" width="400"></td>
   </tr>
   <tr>
