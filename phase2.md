@@ -7,6 +7,10 @@ Hard Landing – Landing Gear Project
     <td><img src="figures/phase2/other isometric view.png" width="400"></td>
   </tr>
   <tr>>
+    <td align="center"><em>Caption for left image</em></td>
+    <td align="center"><em>Caption for right image</em></td>
+  </tr>
+</table>
 
 <p align="center">
 Aiden Beam, Jack Bessette, Ben Kolecki, Evan Morris, Nordin Jafar 
