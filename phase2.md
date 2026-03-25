@@ -31,10 +31,6 @@ This aircraft landing gear was modeled based off a simplified version of a large
 This motor will read signals from an Arduino to rotate on its axis, extending and folding up the landing gear. These rotations will occur between two fixed-angle measurements (ensured by mechanical locks) to ensure proper positioning/orientation at all times. Both the motor itself and the top pin on the strut will be fixed to the structure of the plane wing and will not move.
 <br>
 
-
-**Printablility** <br>
-Not including the tires, each and every CAD part in our assembly is 3D printable. We will vary the orientation of each part when printing to promote ease of printing, and also to ensure orientation of the layer lines promotes maximum strength in the direction of loading. In Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made with PLA filament.<br>
-<br>
 **Landing gear deployment/retraction sequence**
 <p align="center">
 Isometric View
@@ -82,17 +78,15 @@ Frontal View
 *Improved harness connecting two-bar linkage to main strut* <br>
 	-The updated design is able to handle stronger loads, thus resulting in a higher factor of safety of the overall assembly.
 
+## **Discussion of Design for Assembly and Design for 3D Printing**
 
-
-
-
-
-
-  
+**Printablility** <br>
+Not including the tires, each and every CAD part in our assembly is 3D printable. We will vary the orientation of each part when printing to promote ease of printing, and also to ensure orientation of the layer lines promotes maximum strength in the direction of loading. In Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made with PLA filament.<br>
+<br>
   
 ## **Detailed Explanation of Required Analyses (shaft, gear, fatigue, bearings, interfaces, etc.) with Clear Assumptions and Results**
 
-- Discussion of design for assembly and design for 3D printing
+
   <br>
 <br>
 <p align="center">
