@@ -36,12 +36,14 @@ Not including the tires, each and every CAD part in our assembly is 3D printable
 <br>
 **Landing gear deployment/retraction sequence**
 <p align="center">
-Isometric view
+Isometric View
 	<br>
+	
 [watch the assembly video](https://github.com/user-attachments/assets/6c1ffd8b-b0af-4d7d-89b4-459098cd728c)
 <br>
-frontal view
+Frontal View
 <br>
+	
 [watch the assembly video](https://github.com/user-attachments/assets/f484d572-f8e7-468a-845d-adacea77aa67)
 
 	
