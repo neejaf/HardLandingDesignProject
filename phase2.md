@@ -133,6 +133,7 @@ Total Deformation
 <img src="figures/phase2/new_total_deformation.png">
 
 **Retracted Analysis**
+<br>
 Equivalent Stress
 <img src="figures/phase2/Equivalent stress when up.png">
 <br>
