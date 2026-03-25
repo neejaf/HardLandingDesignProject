@@ -82,10 +82,7 @@ Not including the tires, each and every CAD part in our assembly is 3D printable
 ## **Detailed Explanation of Required Analyses (shaft, gear, fatigue, bearings, interfaces, etc.) with Clear Assumptions and Results**
 
 
-  <br>
-<br>
-
-**Extended Analysis**
+### **Extended Analysis**
 
 Von-Mises Equivalent stress
 <table align="center">
