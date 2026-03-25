@@ -90,7 +90,7 @@ Von-Mises Equivalent stress
     <td><img src="figures/phase2/1 new equivalent stress.png" width="400"></td>
     <td><img src="figures/phase2/2 new equivalent stress.png" width="400"></td>
   </tr>
-  <tr>>
+  <tr>
 </table>
 <br>
 <br>
