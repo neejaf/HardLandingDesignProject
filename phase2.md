@@ -115,17 +115,17 @@ Fatigue analysis
 </table>
 <br>
 Mesh
-	<img src="figures/phase2/Mesh.png">
+	(insert here)
 	<br>
 	<br>
 Added Force
 
-<img src="figures/phase2/Force acting.png">
+(insert here)
 <br>
 <br> 
 Total Deformation
 	
-<img src="figures/phase2/Total_Deformation.png">
+<img src="figures/phase2/new_total_deformation.png">
 	
 ## **Updated List of Anticipated Risks or Weaknesses to be Addressed in Prototyping**
 Smallest factor of safety
