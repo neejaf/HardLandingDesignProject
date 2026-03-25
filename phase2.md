@@ -14,8 +14,27 @@ Arizona State University
 MEE 342  
   </p>
 
+
 ## **Final Design Overview**
-This aircraft landing gear was modeled based off a simplified version of a large airliner landing gear. During taxi, takeoff, and landing the landing gear will be in its vertical, locked position, and during flight will retract to allow increased aerodynamic performance. Our design consists of three main sections: the strut/wheels that provide the main support for the aircraft, and the two bar linkage connected to a motor that controls the motion of the entire system. <br>
+This landing gear system is designed for a wide-body commercial aircraft operating under typical taxi, takeoff, landing, and flight conditions. During ground operation, the gear remains in its vertical, locked configuration to support the aircraft, and retracts during flight to reduce aerodynamic drag.
+
+The design is based on a representative aircraft weight consisting of structural mass and payload. For loading assumptions, 90% of the total aircraft weight was taken to be supported by the main landing gear, with the remaining load carried by the nose gear. Since there are two main landing gear assemblies, each gear supports approximately 45% of the total aircraft weight under static conditions.
+
+The system consists of three primary sections:
+- **Main strut and wheel assembly**, which carries vertical landing and ground loads  
+- **Bogie and fork interface**, which transfers forces from the wheels into the strut  
+- **Two-bar linkage mechanism**, which controls retraction and deployment  
+
+The design maintains a clear load path from the wheels through the bogie and into the main strut, ensuring forces are transferred efficiently through the structure.
+
+Multiple loading conditions were considered:
+- Landing loads
+- Static loads  
+- Braking loads  
+- Stowed configuration
+
+These cases capture both vertical and combined loading conditions seen in real operation.
+Overall, the design focuses on realistic load distribution, efficient force transfer, and identifying critical stress regions.
 <br>
 <p align="center">
 	<img src="figures/phase2/side view.png" width="600"></td>
