@@ -52,7 +52,6 @@ Frontal View
 <br>
 </p>
 <p align="center">
-	<img src="figures/phase2/FoldedIsoView.png" width="600"></td>
 	<img src="figures/phase2/FoldedFrontView.png" width="600"></td>
 	<p/>
 	
