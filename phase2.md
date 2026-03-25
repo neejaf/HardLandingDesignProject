@@ -6,7 +6,7 @@ Hard Landing – Landing Gear Project
     <td><img src="figures/phase2/isometric view.png" width="400"></td>
     <td><img src="figures/phase2/other isometric view.png" width="400"></td>
   </tr>
-  <tr>>
+  <tr>
 </table>
 
 <p align="center">
