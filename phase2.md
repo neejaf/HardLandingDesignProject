@@ -76,6 +76,9 @@ Frontal View
 <br>
 *Improved harness connecting two-bar linkage to main strut* <br>
 	-The updated design is able to handle stronger loads, thus resulting in a higher factor of safety of the overall assembly.
+<br>
+*Changed Location of pin for improved kinematics*
+	-Raising the height of the pin supporting the two bar linkage allows for complete horizontal storage of the strut, which should allow for storage of the entire landing gear assembly inside the fuselage. Previously, the landing gear ended at an angle, which would result in parts of the landing gear (wheels especially) being very far away from the neutral axis, and probably resting outside the body of the airplane.
 
 ## **Discussion of Design for Assembly and Design for 3D Printing**
 
