@@ -158,9 +158,9 @@ Smallest factor of safety
 
 	-full 3D assembly**
 	-drawings and views (Need from Ben)**
-	-printability
+	-printability **
 	-static stress and factor of safety**
-	-Fatigue (Need from Aiden)
+	-Fatigue (Need from Aiden) **
 	-key/coupling/interface stresses (Need from Aiden) 
 	-bearing load check**
 	-global safety overview 
