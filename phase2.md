@@ -33,7 +33,7 @@ This motor will read signals from an Arduino to rotate on its axis, extending an
 
 
 **Printablility** <br>
-Not including the tires, each and every CAD part in our assembly is 3D printable. We will vary the orientation of each part when printing to promote ease of printing, and also to ensure orientation of the layer lines promotes maximum strength in the direction of loading. <br>
+Not including the tires, each and every CAD part in our assembly is 3D printable. We will vary the orientation of each part when printing to promote ease of printing, and also to ensure orientation of the layer lines promotes maximum strength in the direction of loading. In Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made with PLA filament.<br>
 <br>
 **Landing gear deployment/retraction sequence**
 <p align="center">
