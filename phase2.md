@@ -114,6 +114,7 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 - Loads are derived by assuming the main landing gear supports approximately 90% of the total aircraft weight, distributed equally between the two main gear assemblies. This approach follows standard landing gear design practices.
 - For landing conditions, a load factor (n ≈ 2–3) is applied to account for impact during touchdown. Braking conditions introduce horizontal forces due to friction at the wheels, while the static case considers steady vertical loading. The stowed configuration evaluates the effect of gravity and constraints during retraction.
 - For each case, forces and constraints are applied to approximate real-world conditions, and resulting stresses, deformations, and reaction forces are analyzed to evaluate structural performance and factor of safety.
+<br>
 
 ### Landing (Tilted Oleo @ 9 degrees - 3.4MN Load)
 Von-Mises Equivalent Stress Results - 220.81 MPa
