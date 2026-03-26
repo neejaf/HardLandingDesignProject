@@ -153,27 +153,42 @@ Fatigue Analysis - Factor of Safety - 4.89
   <img src="figures/phase2/ANSYS Results/StaticFatigueFOS_AB.png" width="800">
 </p>
 
+### Braking -  (1.8MN Vertical Load + XXKN Horizontal Load)
+Von-Mises Equivalent Stress - 220.81 MPa
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/BrakingVonMises_AB.png" width="800">
+</p>
+Stress Factor of Safety - 7.18
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/BrakingFOS_AB.png" width="800">
+</p>
+Fatigue Analysis - Equivalent Alternating Stress - 117.1 MPa
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/BrakingFatigueEAS_AB.png" width="800">
+</p>
+Fatigue Analysis - Factor of Safety - 4.89
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/BrakingFatigueFOS_AB.png" width="800">
+</p>
 
+### Retracted Configuration - (Applied Gravity)
+Von-Mises Equivalent Stress - 220.81 MPa
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/RetractedVonMises_AB.png" width="800">
+</p>
+Stress Factor of Safety - 7.18
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/RetractedFOS_AB.png" width="800">
+</p>
+Fatigue Analysis - Equivalent Alternating Stress - 117.1 MPa
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/RetractedFatigueEAS_AB.png" width="800">
+</p>
+Fatigue Analysis - Factor of Safety - 4.89
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/RetractedFatigueFOS_AB.png" width="800">
+</p>
 
-
-
-
-**Retracted Analysis**
-<br>
-Equivalent Stress
-<img src="figures/phase2/Equivalent stress when up.png">
-<br>
-Factor of Safety
-<img src="figures/phase2/FOS when up.png">
-<br>
-Deformation
-<img src="figures/phase2/Deformation when up.png">
-<br>
-## **Updated List of Anticipated Risks or Weaknesses to be Addressed in Prototyping**
-Smallest factor of safety
-<td><img src="figures/phase2/Minimum_safety_factor.png" width="400"></td>
-<br>
-<br>
 
 ## **CAD Drawings - Critical Components and Exploded View**
 
