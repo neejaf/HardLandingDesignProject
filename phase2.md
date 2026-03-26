@@ -93,8 +93,20 @@ Frontal View
 - Allows full horizontal stowage of the strut
 - Enables more realistic retraction within the fuselage
 - Eliminates previous angled configuration that would place components outside the aircraft envelope
+
 ## **Discussion of Design for Assembly and Design for 3D Printing**
 Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made with PLA filament. Certain dimesnsions will be adjussted to account for 3D print tolerances to ensure intented kinematics is possible.
+
+### Design for Assembly
+- Assembly is kept simple using pin connections for all joints
+- Parts are split into manageable components (strut, bogie, linkage, etc.)
+- Small clearances are included to avoid binding during motion
+
+### Design for 3D Printing
+- All parts are sized to fit within the printer build volume
+- Basic clearances are included to account for print tolerance
+- Parts are oriented to reduce the need for supports where possible
+- Design prioritizes functionality over strength since this is a demonstration model
 <br>
 ## **Detailed Explanation of Required Analyses (shaft, gear, fatigue, bearings, interfaces, etc.) with Clear Assumptions and Results**
 
