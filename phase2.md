@@ -75,19 +75,24 @@ Frontal View
 	
 <br>  
 
-## **Description of Major Design Decisions and Changes from Phase 1**<br>
+## Description of Major Design Decisions and Changes from Phase 1
 
-*Increased wheel count to more closely resemble inspiration*  
-	-Adding three more wheels makes our model more similar to that of many commercial airliners, whose landing gear we want to replicate. This allows our calculations and simulations to be much more accurate to resemble real world conditions. Also, an even number of wheels allows for a more balanced model, so it will more easily be able to stand and hold weight without an unintended failure. (Along with this includes changes to the entire wheel base to accompany more wheels) <br>
-<br>
+### Increased wheel count to better match real configurations
+- Added three additional wheels to more closely reflect typical commercial airliner landing gear
+- Improves realism of load distribution in simulations
+- Results in a more stable and balanced system under load
+- Wheelbase was updated to accommodate the additional wheels
 
-*Improved harness connecting two-bar linkage to main strut* <br>
-	-The updated design is able to handle stronger loads, thus resulting in a higher factor of safety of the overall assembly.<br>
-	
-<br>
+### Reinforced linkage-to-strut connection
+- Strengthened the connection between the two-bar linkage and main strut
+- Allows the assembly to handle higher loads
+- Increases the overall factor of safety
 
-*Changed Location of pin for improved kinematics* <br>
-	-Raising the height of the pin supporting the two bar linkage allows for complete horizontal storage of the strut, which should allow for storage of the entire landing gear assembly inside the fuselage. Previously, the landing gear ended at an angle, which would result in parts of the landing gear (wheels especially) being very far away from the neutral axis, and probably resting outside the body of the airplane.
+### Pin relocation for improved kinematics
+- Raised the pin supporting the two-bar linkage
+- Allows full horizontal stowage of the strut
+- Enables more realistic retraction within the fuselage
+- Eliminates previous angled configuration that would place components outside the aircraft envelope
 ## **Discussion of Design for Assembly and Design for 3D Printing**
 
 Not including the tires, each and every CAD part in our assembly is 3D printable. We will vary the orientation of each part when printing to promote ease of printing, and also to ensure the orientation of the layer lines promotes maximum strength in the direction of loading. In Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made with PLA filament.<br>
