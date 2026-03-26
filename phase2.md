@@ -117,36 +117,46 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 <br>
 
 ### Landing (Tilted Oleo @ 9 degrees - 3.4MN Load)
-Von-Mises Equivalent Stress Results - 220.81 MPa
+
+Von-Mises Equivalent Stress - 472.99 MPa
 <p align="center">
   <img src="figures/phase2/ANSYS Results/LandingVonMises_AB.png" width="800">
 </p>
-Stress Factor of Safety Results - 3.35
+Stress Factor of Safety - 3.35
 <p align="center">
   <img src="figures/phase2/ANSYS Results/LandingFOS_AB.png" width="800">
 </p>
-<br>
-Fatigue Analysis Factor of Safety Results - 2.28
-<table align="center">
-  <tr>
-    <td><img src="figures/phase2/Equivalent alternating stress.png" width="400"></td>
-    <td><img src="figures/phase2/Fatigue FOS.png" width="400"></td>
-  </tr>
-  <tr>
-	<td align="center"><em>Fatigue Equivalent alternating stress</em></td>
-    <td align="center"><em>Fatigue Factor of safety</em></td>
-  </tr>	  
-</table>
-	<br>
-	<br>
-Added Force
+Fatigue Analysis - Equivalent Alternating Stress - 269.5 MPa
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/LandingFatigueEAS_AB.png" width="800">
+</p>
+Fatigue Analysis - Factor of Safety - 2.28
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/LandingFatigueFOS_AB.png" width="800">
+</p>
 
-(insert here)
-<br>
-<br> 
-Total Deformation
-	
-<img src="figures/phase2/new_total_deformation.png">
+### Static - "Standing" Load (1.8MN Vertical Load)
+Von-Mises Equivalent Stress - 220.81 MPa
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/StaticVonMises_AB.png" width="800">
+</p>
+Stress Factor of Safety - 7.18
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/StaticFOS_AB.png" width="800">
+</p>
+Fatigue Analysis - Equivalent Alternating Stress - 117.1 MPa
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/StaticFatigueEAS_AB.png" width="800">
+</p>
+Fatigue Analysis - Factor of Safety - 4.89
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/StaticFatigueFOS_AB.png" width="800">
+</p>
+
+
+
+
+
 
 **Retracted Analysis**
 <br>
