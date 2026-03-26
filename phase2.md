@@ -241,15 +241,3 @@ The oleo and bogie were selected as critical components due to their role in tra
   </tr>
   </table>
 
-## **Checklist-(2 astrisks is what we have done)** 
-
-	-full 3D assembly**
-	-drawings and views (Need from Ben)**
-	-printability **
-	-static stress and factor of safety**
-	-Fatigue (Need from Aiden) **
-	-key/coupling/interface stresses (Need from Aiden) 
-	-bearing load check**
-	-global safety overview 
-<br>
-<br>
