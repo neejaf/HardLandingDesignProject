@@ -200,14 +200,17 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 <p align="center">
   <img src="figures/phase2/ANSYS Results/RetractedVonMises_AB.png" width="800">
 </p>
+
 **Stress Factor of Safety - 7.18**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/RetractedFOS_AB.png" width="800">
 </p>
+
 **Fatigue Analysis - Equivalent Alternating Stress - 117.1 MPa**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/RetractedFatigueEAS_AB.png" width="800">
 </p>
+
 **Fatigue Analysis - Factor of Safety - 4.89**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/RetractedFatigueFOS_AB.png" width="800">
