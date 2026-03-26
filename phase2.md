@@ -226,6 +226,7 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 
 
 ## **CAD Drawings - Critical Components and Exploded View**
+The oleo and bogie were selected as critical components due to their role in transferring loads from the wheels into the main structure and consistently experiencing the highest stresses across multiple loading cases. These components are also key interface regions within the assembly, where forces are transmitted through pins and joints, making them critical for both structural integrity and overall system performance.
 
 <table align="center">
   <tr>
