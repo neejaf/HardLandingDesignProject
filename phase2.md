@@ -230,6 +230,16 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 </p>
 - Overall, the retracted configuration is not a governing load case, but it verifies that the assembly can safely support itself while stowed.
 
+## Material Properties and Fatigue Data
+
+The structural components of the landing gear were modeled using 300M steel, an ultra-high-strength low-alloy steel commonly used in aerospace applications. 300M is a modified version of AISI 4340 steel, with added silicon and vanadium to improve hardenability, fatigue strength, and fracture toughness.
+
+Material properties were defined in ANSYS using isotropic elasticity, with a Young’s modulus of 205 GPa, Poisson’s ratio of 0.28, and a density of 7850 kg/m³. A tensile yield strength of 1586 MPa and ultimate tensile strength of 1931 MPa were used for stress and factor of safety calculations.
+
+Fatigue behavior was incorporated using an S–N curve representative of 300M steel. This data was based on published experimental results for smooth specimens under fully reversed loading conditions, providing a realistic basis for fatigue life estimation in the landing gear components.
+
+
+
 ## **CAD Drawings - Critical Components and Exploded View**
  - The oleo and bogie were selected as critical components due to their role in transferring loads from the wheels into the main structure and consistently experiencing the highest stresses across multiple loading cases. These components are also key interface regions within the assembly, where forces are transmitted through pins and joints, making them critical for both structural integrity and overall system performance.
  - Interface stresses at pin connections were considered qualitatively, as these regions transfer load between major components. The results indicate that these areas coincide with regions of maximum stress observed in simulation, confirming their importance in the load path. Future iterations may include detailed bearing and shear stress calculations at these interfaces.
@@ -256,3 +266,6 @@ All cases resulted in factors of safety greater than 2, indicating acceptable st
 ## References
 
 Currey, N. S. (1988). *Aircraft Landing Gear Design: Principles and Practices*. American Institute of Aeronautics and Astronautics.
+
+The S–N curve used for fatigue analysis was referenced from published experimental data:
+“Numerical Prediction of Fatigue Life for Landing Gear Considering the Shock Absorber Travel.” ResearchGate. Available at: https://www.researchgate.net/figure/Test-S-N-curve-of-300M-steel-smooth-bar-specimen-Kt-1-R-1-f-110-Hz-a-testing_fig12_387991291 (accessed March 26, 2026).
