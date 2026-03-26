@@ -242,7 +242,7 @@ Fatigue behavior was incorporated using an S–N curve representative of 300M st
 
 The applied static load per main landing gear was 1.8 MN. Assuming each main gear supports approximately 45% of the total aircraft weight:
 
-W_total = 1.8 MN / 0.45 = 4.0 MN
+Total Weight = 1.8 MN / 0.45 = 4.0 MN
 
 Converting total weight to mass:
 
@@ -250,7 +250,7 @@ m = W / g = (4.0 × 10^6 N) / (9.81 m/s²) ≈ 4.08 × 10^5 kg
 
 This corresponds to an approximate aircraft mass of **408,000 kg**, which is consistent with a wide-body commercial aircraft.
 
-Landing loads of approximately 3.4 MN were derived using a load factor (n ≈ 2–3) to represent impact forces during touchdown. Braking loads include horizontal forces estimated using a friction coefficient consistent with dry runway conditions.
+Landing loads of approximately 3.4 MN were derived using a load factor (n ≈ 2) to represent impact forces during touchdown. Braking loads include horizontal forces estimated using a friction coefficient consistent with dry runway conditions.
 
 The oleo strut was modeled as a rigid structural member rather than a dynamic energy-absorbing system. In real landing gear, the oleo provides damping and reduces impact forces through hydraulic compression. This simplification allows for direct evaluation of structural stresses, but does not capture energy absorption effects, meaning landing stresses may represent a conservative estimate.
 
