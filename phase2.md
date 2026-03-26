@@ -108,10 +108,12 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 - Parts are oriented to reduce the need for supports where possible
 - Design prioritizes functionality over strength since this is a demonstration model
 <br>
-## **Detailed Explanation of Required Analyses (shaft, gear, fatigue, bearings, interfaces, etc.) with Clear Assumptions and Results**
 
-
-### **Extended Analysis**
+## **Analysis**
+As mentioned before, four loading cases are evaulated: landing inmpact, static load, braking (rejected takeoff), and stowaway configuration. These cases represent the primary conditions the ladning gear is expected to experience.
+Loads are derived by assuming the main landing gear supports approximately 90% of the total aircraft weight, distributed equally between the two main gear assemblies. This approach follows standard landing gear design practices.
+For landing conditions, a load factor (n ≈ 2–3) is applied to account for impact during touchdown. Braking conditions introduce horizontal forces due to friction at the wheels, while the static case considers steady vertical loading. The stowed configuration evaluates the effect of gravity and constraints during retraction.
+For each case, forces and constraints are applied to approximate real-world conditions, and resulting stresses, deformations, and reaction forces are analyzed to evaluate structural performance and factor of safety.
 
 Von-Mises Equivalent stress
 <table align="center">
