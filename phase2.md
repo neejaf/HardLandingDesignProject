@@ -119,13 +119,14 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 ### Landing (Tilted Oleo @ 9 degrees - 3.4MN Load)
 Von-Mises Equivalent Stress Results - 220.81 MPa
 <p align="center">
-  <img src="figures/phase2/ANSYS_Results/LandingVonMises_AB.png" width="800">
+  <img src="figures/phase2/ANSYS Results/LandingVonMises_AB.png" width="800">
 </p>
-Factor of Safety
-	<img src="figures/phase2/new FOS.png">
+Stress Factor of Safety Results - 3.35
+<p align="center">
+  <img src="figures/phase2/ANSYS Results/LandingFOS_AB.png" width="800">
+</p>
 <br>
-<br>
-Fatigue analysis
+Fatigue Analysis Factor of Safety Results - 2.28
 <table align="center">
   <tr>
     <td><img src="figures/phase2/Equivalent alternating stress.png" width="400"></td>
