@@ -177,19 +177,22 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
   <img src="figures/phase2/ANSYS Results/StaticFatigueFOS_AB.png" width="800">
 </p>
 
-### Braking -  (1.8MN Vertical Load + XXKN Horizontal Load)
-**Von-Mises Equivalent Stress - 220.81 MPa**
+### Braking -  (1.8MN Vertical Load + 640KN Horizontal Load)
+**Von-Mises Equivalent Stress - 538.11 MPa**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingVonMises_AB.png" width="800">
 </p>
-**Stress Factor of Safety - 7.18**
+
+**Stress Factor of Safety - 2.01**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingFOS_AB.png" width="800">
 </p>
-**Fatigue Analysis - Equivalent Alternating Stress - 117.1 MPa**
+
+**Fatigue Analysis - Equivalent Alternating Stress - 312.61 MPa**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingFatigueEAS_AB.png" width="800">
 </p>
+
 **Fatigue Analysis - Factor of Safety - 4.89**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingFatigueFOS_AB.png" width="800">
