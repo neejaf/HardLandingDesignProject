@@ -178,17 +178,22 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 </p>
 
 ### Braking -  (1.8MN Vertical Load + 640KN Horizontal Load)
+- For the braking condition, a vertical load of 1.8 MN was applied along with a horizontal load of 640 kN to represent friction forces during a rejected takeoff. The horizontal force was applied at the wheel contact locations, opposing motion, while constraints were applied at the upper strut interface to simulate attachment to the aircraft.
+
 **Von-Mises Equivalent Stress - 538.11 MPa**
+- The combined loading introduces significant bending in the main strut due to the moment created by the horizontal force acting at ground level. The maximum von Mises stress of 538.11 MPa occurs near the upper strut region, indicating this area is critical under combined loading.
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingVonMises_AB.png" width="800">
 </p>
 
 **Stress Factor of Safety - 2.94**
+ - The resulting factor of safety of 2.94 is lower than both the static and landing cases, suggesting that braking is one of the more critical loading scenarios for the design.
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingFOS_AB.png" width="800">
 </p>
 
 **Fatigue Analysis - Equivalent Alternating Stress - 312.61 MPa**
+ - Fatigue results show an equivalent alternating stress of 312.61 MPa with a fatigue factor of safety of 2.01. This indicates that repeated braking loads may be a limiting factor for long-term durability.
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingFatigueEAS_AB.png" width="800">
 </p>
