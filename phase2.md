@@ -117,7 +117,7 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 <br>
 
 ### Landing (Tilted Oleo @ 9 degrees - 3.4MN Load)
-- For the landing condition, a load factor of n ≈ FILL THIS IN CONFIRM IT was applied to represent impact during touchdown. This resulted in an equivalent load of approximately 3.4 MN acting through the wheel assembly.
+- For the landing condition, a load factor of n ≈ 2 was applied to represent impact during touchdown. This resulted in an equivalent load of approximately 3.4 MN acting through the wheel assembly.
 - The load was applied at the wheel contact locations, with constraints at the upper strut interface to approximate attachment to the aircraft structure. A tilted configuration (~9°) was used to reflect the expected geometry during initial ground contact.
 
 **Von-Mises Equivalent Stress - 472.99 MPa**
@@ -231,7 +231,8 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 - Overall, the retracted configuration is not a governing load case, but it verifies that the assembly can safely support itself while stowed.
 
 ## **CAD Drawings - Critical Components and Exploded View**
-The oleo and bogie were selected as critical components due to their role in transferring loads from the wheels into the main structure and consistently experiencing the highest stresses across multiple loading cases. These components are also key interface regions within the assembly, where forces are transmitted through pins and joints, making them critical for both structural integrity and overall system performance.
+ - The oleo and bogie were selected as critical components due to their role in transferring loads from the wheels into the main structure and consistently experiencing the highest stresses across multiple loading cases. These components are also key interface regions within the assembly, where forces are transmitted through pins and joints, making them critical for both structural integrity and overall system performance.
+ - Interface stresses at pin connections were considered qualitatively, as these regions transfer load between major components. The results indicate that these areas coincide with regions of maximum stress observed in simulation, confirming their importance in the load path. Future iterations may include detailed bearing and shear stress calculations at these interfaces.
 
 <table align="center">
   <tr>
@@ -246,3 +247,8 @@ The oleo and bogie were selected as critical components due to their role in tra
   </tr>
   </table>
 
+## Global Safety Summary
+
+Across all loading conditions, the braking case produced the highest stress and lowest factor of safety, making it the governing design condition. The landing case also resulted in significant stresses, particularly at the strut-to-bogie interface. Static and stowed configurations showed significantly lower stress levels and are not critical for design.
+
+All cases resulted in factors of safety greater than 2, indicating acceptable structural performance. Fatigue analysis shows that braking loads may be the limiting factor for long-term durability, particularly at key interface regions.
