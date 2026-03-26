@@ -282,9 +282,14 @@ All cases resulted in factors of safety greater than 2, indicating acceptable st
 Currey, N. S. (1988). *Aircraft Landing Gear Design: Principles and Practices*. American Institute of Aeronautics and Astronautics.
 
 The S–N curve used for fatigue analysis was referenced from published experimental data:
+
 “Numerical Prediction of Fatigue Life for Landing Gear Considering the Shock Absorber Travel.” ResearchGate.
+
 https://www.researchgate.net/figure/Test-S-N-curve-of-300M-steel-smooth-bar-specimen-Kt-1-R-1-f-110-Hz-a-testing_fig12_387991291.
+
 Reference for material props: AZoM. 
+
 (2013, July 11). AISI 300M Alloy Steel (UNS K44220).
+
 https://www.azom.com/article.aspx?ArticleID=6671
 
