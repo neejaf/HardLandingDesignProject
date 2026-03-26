@@ -238,7 +238,21 @@ Material properties were defined in ANSYS using isotropic elasticity, with a You
 
 Fatigue behavior was incorporated using an S–N curve representative of 300M steel. This data was based on published experimental results for smooth specimens under fully reversed loading conditions, providing a realistic basis for fatigue life estimation in the landing gear components.
 
+## Loading Context and Modeling Assumptions
 
+The applied static load per main landing gear was 1.8 MN. Assuming each main gear supports approximately 45% of the total aircraft weight:
+
+W_total = 1.8 MN / 0.45 = 4.0 MN
+
+Converting total weight to mass:
+
+m = W / g = (4.0 × 10^6 N) / (9.81 m/s²) ≈ 4.08 × 10^5 kg
+
+This corresponds to an approximate aircraft mass of **408,000 kg**, which is consistent with a wide-body commercial aircraft.
+
+Landing loads of approximately 3.4 MN were derived using a load factor (n ≈ 2–3) to represent impact forces during touchdown. Braking loads include horizontal forces estimated using a friction coefficient consistent with dry runway conditions.
+
+The oleo strut was modeled as a rigid structural member rather than a dynamic energy-absorbing system. In real landing gear, the oleo provides damping and reduces impact forces through hydraulic compression. This simplification allows for direct evaluation of structural stresses, but does not capture energy absorption effects, meaning landing stresses may represent a conservative estimate.
 
 ## **CAD Drawings - Critical Components and Exploded View**
  - The oleo and bogie were selected as critical components due to their role in transferring loads from the wheels into the main structure and consistently experiencing the highest stresses across multiple loading cases. These components are also key interface regions within the assembly, where forces are transmitted through pins and joints, making them critical for both structural integrity and overall system performance.
@@ -268,4 +282,9 @@ All cases resulted in factors of safety greater than 2, indicating acceptable st
 Currey, N. S. (1988). *Aircraft Landing Gear Design: Principles and Practices*. American Institute of Aeronautics and Astronautics.
 
 The S–N curve used for fatigue analysis was referenced from published experimental data:
-“Numerical Prediction of Fatigue Life for Landing Gear Considering the Shock Absorber Travel.” ResearchGate. Available at: https://www.researchgate.net/figure/Test-S-N-curve-of-300M-steel-smooth-bar-specimen-Kt-1-R-1-f-110-Hz-a-testing_fig12_387991291 (accessed March 26, 2026).
+“Numerical Prediction of Fatigue Life for Landing Gear Considering the Shock Absorber Travel.” ResearchGate.
+https://www.researchgate.net/figure/Test-S-N-curve-of-300M-steel-smooth-bar-specimen-Kt-1-R-1-f-110-Hz-a-testing_fig12_387991291.
+Reference for material props: AZoM. 
+(2013, July 11). AISI 300M Alloy Steel (UNS K44220).
+https://www.azom.com/article.aspx?ArticleID=6671
+
