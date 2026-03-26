@@ -117,74 +117,98 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 <br>
 
 ### Landing (Tilted Oleo @ 9 degrees - 3.4MN Load)
+- For the landing condition, a load factor of n ≈ FILL THIS IN CONFIRM IT was applied to represent impact during touchdown. This resulted in an equivalent load of approximately 3.4 MN acting through the wheel assembly.
+- The load was applied at the wheel contact locations, with constraints at the upper strut interface to approximate attachment to the aircraft structure. A tilted configuration (~9°) was used to reflect the expected geometry during initial ground contact.
 
-Von-Mises Equivalent Stress - 472.99 MPa
+**Von-Mises Equivalent Stress - 472.99 MPa**
+
+ - The maximum von Mises stress of 472.99 MPa occurs near the lower strut-to-bogie interface, indicating this region experiences the highest combined bending and shear loading. This is consistent with expectations, as this joint transfers load from the wheels into the main structure.
 <p align="center">
   <img src="figures/phase2/ANSYS Results/LandingVonMises_AB.png" width="800">
 </p>
-Stress Factor of Safety - 3.35
+
+**Stress Factor of Safety - 3.35**
+
+ - The resulting factor of safety of 3.35 suggests that the structure is within acceptable limits under landing conditions, assuming the selected material properties. Deformation was primarily concentrated along the strut, with no excessive displacement observed that would indicate instability.
 <p align="center">
   <img src="figures/phase2/ANSYS Results/LandingFOS_AB.png" width="800">
 </p>
-Fatigue Analysis - Equivalent Alternating Stress - 269.5 MPa
+
+**Fatigue Analysis - Equivalent Alternating Stress - 269.5 MPa**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/LandingFatigueEAS_AB.png" width="800">
 </p>
-Fatigue Analysis - Factor of Safety - 2.28
+
+**Fatigue Analysis - Factor of Safety - 2.28**
+
 <p align="center">
   <img src="figures/phase2/ANSYS Results/LandingFatigueFOS_AB.png" width="800">
 </p>
 
+ - Fatigue results show an equivalent alternating stress of 269.5 MPa, with a corresponding fatigue factor of safety of 2.28. This indicates that, while safe for repeated loading, this region may be a critical location for long-term durability and should be monitored in future iterations.
+
+
 ### Static - "Standing" Load (1.8MN Vertical Load)
-Von-Mises Equivalent Stress - 220.81 MPa
+ - For the static condition, a vertical load of 1.8 MN was applied to represent the aircraft at rest. This load was distributed through the wheel assembly, with constraints applied at the upper strut interface to simulate attachment to the aircraft structure.
+
+**Von-Mises Equivalent Stress - 220.81 MPa**
+
+ - The maximum von Mises stress of 220.81 MPa occurs near the lower strut and bogie interface, consistent with the primary load path from the wheels into the main structure.
 <p align="center">
   <img src="figures/phase2/ANSYS Results/StaticVonMises_AB.png" width="800">
 </p>
-Stress Factor of Safety - 7.18
+
+**Stress Factor of Safety - 7.18**
+
+ - The resulting factor of safety of 7.18 indicates the structure is well within safe limits under static conditions, suggesting the design is not governed by this loading case.
 <p align="center">
   <img src="figures/phase2/ANSYS Results/StaticFOS_AB.png" width="800">
 </p>
-Fatigue Analysis - Equivalent Alternating Stress - 117.1 MPa
+
+**Fatigue Analysis - Equivalent Alternating Stress - 117.1 MPa**
+
+ - Fatigue results show an equivalent alternating stress of 117.1 MPa with a fatigue factor of safety of 4.89. This further confirms that the static condition is not critical for long-term durability.
 <p align="center">
   <img src="figures/phase2/ANSYS Results/StaticFatigueEAS_AB.png" width="800">
 </p>
-Fatigue Analysis - Factor of Safety - 4.89
+ 
+**Fatigue Analysis - Factor of Safety - 4.89**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/StaticFatigueFOS_AB.png" width="800">
 </p>
 
 ### Braking -  (1.8MN Vertical Load + XXKN Horizontal Load)
-Von-Mises Equivalent Stress - 220.81 MPa
+**Von-Mises Equivalent Stress - 220.81 MPa**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingVonMises_AB.png" width="800">
 </p>
-Stress Factor of Safety - 7.18
+**Stress Factor of Safety - 7.18**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingFOS_AB.png" width="800">
 </p>
-Fatigue Analysis - Equivalent Alternating Stress - 117.1 MPa
+**Fatigue Analysis - Equivalent Alternating Stress - 117.1 MPa**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingFatigueEAS_AB.png" width="800">
 </p>
-Fatigue Analysis - Factor of Safety - 4.89
+**Fatigue Analysis - Factor of Safety - 4.89**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingFatigueFOS_AB.png" width="800">
 </p>
 
 ### Retracted Configuration - (Applied Gravity)
-Von-Mises Equivalent Stress - 220.81 MPa
+**Von-Mises Equivalent Stress - 220.81 MPa**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/RetractedVonMises_AB.png" width="800">
 </p>
-Stress Factor of Safety - 7.18
+**Stress Factor of Safety - 7.18**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/RetractedFOS_AB.png" width="800">
 </p>
-Fatigue Analysis - Equivalent Alternating Stress - 117.1 MPa
+**Fatigue Analysis - Equivalent Alternating Stress - 117.1 MPa**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/RetractedFatigueEAS_AB.png" width="800">
 </p>
-Fatigue Analysis - Factor of Safety - 4.89
+**Fatigue Analysis - Factor of Safety - 4.89**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/RetractedFatigueFOS_AB.png" width="800">
 </p>
