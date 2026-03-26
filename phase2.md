@@ -183,7 +183,7 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
   <img src="figures/phase2/ANSYS Results/BrakingVonMises_AB.png" width="800">
 </p>
 
-**Stress Factor of Safety - 2.01**
+**Stress Factor of Safety - 2.94**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingFOS_AB.png" width="800">
 </p>
@@ -193,7 +193,7 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
   <img src="figures/phase2/ANSYS Results/BrakingFatigueEAS_AB.png" width="800">
 </p>
 
-**Fatigue Analysis - Factor of Safety - 4.89**
+**Fatigue Analysis - Factor of Safety - 2.01**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/BrakingFatigueFOS_AB.png" width="800">
 </p>
