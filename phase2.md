@@ -252,3 +252,7 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 Across all loading conditions, the braking case produced the highest stress and lowest factor of safety, making it the governing design condition. The landing case also resulted in significant stresses, particularly at the strut-to-bogie interface. Static and stowed configurations showed significantly lower stress levels and are not critical for design.
 
 All cases resulted in factors of safety greater than 2, indicating acceptable structural performance. Fatigue analysis shows that braking loads may be the limiting factor for long-term durability, particularly at key interface regions.
+
+## References
+
+Currey, N. S. (1988). *Aircraft Landing Gear Design: Principles and Practices*. American Institute of Aeronautics and Astronautics.
