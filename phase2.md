@@ -204,26 +204,31 @@ Phase 3, we plan to scale this model down to fit in a 256mm 3D print bed, made w
 </p>
 
 ### Retracted Configuration - (Applied Gravity)
-**Von-Mises Equivalent Stress - 220.81 MPa**
+- For the retracted configuration, gravity was applied to the assembly to represent the loading condition while stowed within the aircraft. Constraints were applied at the upper strut interface to simulate attachment to the airframe.
+
+**Von-Mises Equivalent Stress - 157.48 MPa**
+- The maximum von Mises stress of 157.48 MPa occurs near the linkage and strut interface, where the weight of the assembly is transferred through the support structure. This is expected, as the linkage carries the load while holding the gear in the retracted position.
 <p align="center">
   <img src="figures/phase2/ANSYS Results/RetractedVonMises_AB.png" width="800">
 </p>
 
-**Stress Factor of Safety - 7.18**
+**Stress Factor of Safety - 10.07**
+ - The resulting factor of safety of 10.07 indicates that the structure is well within safe limits under this condition. Stresses are relatively low compared to landing and braking cases due to the absence of external impact or horizontal forces.
 <p align="center">
   <img src="figures/phase2/ANSYS Results/RetractedFOS_AB.png" width="800">
 </p>
 
-**Fatigue Analysis - Equivalent Alternating Stress - 117.1 MPa**
+**Fatigue Analysis - Equivalent Alternating Stress - 82.09 MPa**
+ - Fatigue results show an equivalent alternating stress of 82.09 MPa with a fatigue factor of safety of 6.86, indicating that repeated cycling between deployed and stowed positions is not a limiting factor for the design.
 <p align="center">
   <img src="figures/phase2/ANSYS Results/RetractedFatigueEAS_AB.png" width="800">
 </p>
 
-**Fatigue Analysis - Factor of Safety - 4.89**
+**Fatigue Analysis - Factor of Safety - 6.86**
 <p align="center">
   <img src="figures/phase2/ANSYS Results/RetractedFatigueFOS_AB.png" width="800">
 </p>
-
+- Overall, the retracted configuration is not a governing load case, but it verifies that the assembly can safely support itself while stowed.
 
 ## **CAD Drawings - Critical Components and Exploded View**
 The oleo and bogie were selected as critical components due to their role in transferring loads from the wheels into the main structure and consistently experiencing the highest stresses across multiple loading cases. These components are also key interface regions within the assembly, where forces are transmitted through pins and joints, making them critical for both structural integrity and overall system performance.
