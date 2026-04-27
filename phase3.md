@@ -106,7 +106,7 @@ Root Cause:
 ### Poor Surface Quality / Stringing (Strut Component)
 
 <p align="center">
-  <img src="figures/phase3/StrutPrint.png" height="300"><br>
+  <img src="figures/phase3/StrutPrint.png"><br>
   Printed Strut (Surface Defects / Stringing)
 </p>
 
