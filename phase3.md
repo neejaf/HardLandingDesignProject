@@ -103,6 +103,36 @@ Root Cause:
 - Layer adhesion + circular hole geometry weakened the region further
 ---
 
+### Poor Surface Quality / Stringing (Strut Component)
+
+<p align="center">
+  <img src="figures/phase3/StrutPrint.png" height="300"><br>
+  Printed Strut (Surface Defects / Stringing)
+</p>
+
+The strut component exhibited noticeable surface defects and stringing, particularly along vertical faces.
+
+- The print showed:
+  - Stringing between features  
+  - Uneven extrusion lines  
+  - Rough surface finish  
+
+- These defects were most prominent in:
+  - Thin vertical sections  
+  - Areas with frequent start/stop of extrusion  
+  - Regions requiring support  
+
+Root Cause:
+- Small scale (4.2%) reduced feature resolution  
+- Standard print settings were not optimized for fine features  
+- Retraction and cooling were not ideal for this geometry  
+
+Impact:
+- Reduced surface quality  
+- Potential reduction in strength  
+- Poorer fit between components
+
+
 ## Improvements (Version 2)
 
 - Increase tolerances for all mating parts  
