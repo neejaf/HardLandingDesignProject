@@ -80,11 +80,11 @@ One of the critical failures occurred in the retraction link component (shown be
 <table>
   <tr>
     <td align="center">
-      <img src="figures/phase3/LinkSolidWorks.png" alt="CAD model"><br>
+      <img src="figures/phase3/LinkSolidWorks.png" width="300"><br>
       CAD Model
     </td>
     <td align="center">
-      <img src="figures/phase3/LinkPrinted.png" alt="Printed part"><br>
+      <img src="figures/phase3/LinkPrinted.png" width="300"><br>
       Printed Part
     </td>
   </tr>
