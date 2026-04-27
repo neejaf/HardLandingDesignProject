@@ -77,6 +77,17 @@
 
 One of the critical failures occurred in the retraction link component (shown below).
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="LinkSolidWorks.png" alt="CAD model">
+    </td>
+    <td align="center">
+      <img src="LinkPrinted.png" alt="Printed part">
+    </td>
+  </tr>
+</table>
+
 - In the CAD model, the hole regions had sufficient surrounding material for strength
 - However, after scaling to 4.2% and printing in PLA:
   - The effective wall thickness around the holes was significantly reduced
