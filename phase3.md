@@ -101,7 +101,6 @@ Root Cause:
 - Geometry was not adjusted for small-scale manufacturing
 - Printer resolution limits reduced effective material thickness
 - Layer adhesion + circular hole geometry weakened the region further
----
 
 ### Poor Surface Quality / Stringing (Strut Component)
 
