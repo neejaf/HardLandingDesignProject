@@ -73,6 +73,21 @@
 - Hollow wheel design failed → required redesign  
 - Overuse of supports reduced surface quality  
 
+### Link Failure (Retraction Link)
+
+One of the critical failures occurred in the retraction link component (shown below).
+
+- In the CAD model, the hole regions had sufficient surrounding material for strength
+- However, after scaling to 4.2% and printing in PLA:
+  - The effective wall thickness around the holes was significantly reduced
+  - Layer-based printing introduced weak points around the circular geometry
+- This resulted in a stress concentration at the hole
+- The part failed at this location during handling/assembly and required reprinting
+
+Root Cause:
+- Geometry was not adjusted for small-scale manufacturing
+- Printer resolution limits reduced effective material thickness
+- Layer adhesion + circular hole geometry weakened the region further
 ---
 
 ## Improvements (Version 2)
