@@ -153,3 +153,4 @@ Impact:
 - Design for assembly tends to add extra complexity to model
 - Proper engineering design process takes multiple physical models (as shown by our "Improvements" section)
 - Orientation of 3D print greatly impacts strength of parts
+- How to scale stress down from ANSYS to 3D model
