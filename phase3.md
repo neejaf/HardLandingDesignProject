@@ -156,6 +156,6 @@ Impact:
 - How to scale stress down from ANSYS to 3D model
 
 <p align="center">
-  <img src="figures/phase3/HardLandingFinalModel.jpg" height="600"><br>
+  <img src="figures/phase3/hardlandingfinalmodel.png" height="600"><br>
   Final Model w/ Poster
 </p>
