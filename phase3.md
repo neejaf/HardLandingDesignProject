@@ -154,3 +154,8 @@ Impact:
 - Proper engineering design process takes multiple physical models (as shown by our "Improvements" section)
 - Orientation of 3D print greatly impacts strength of parts
 - How to scale stress down from ANSYS to 3D model
+
+<p align="center">
+  <img src="figures/phase3/HardLandingFinalModel.jpg" height="600"><br>
+  Final Model w/ Poster
+</p>
