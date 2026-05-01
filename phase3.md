@@ -142,8 +142,14 @@ Impact:
 
 ---
 
-## Key Takeaways
+## Key Takeaways from Design
 
 - CAD tolerances ≠ printable tolerances  
 - Scaling down amplifies manufacturing limitations  
 - Supports negatively affect surface finish  
+
+## Key Takeaways from Building
+
+- Design for assembly tends to add extra complexity to model
+- Proper engineering design process takes multiple physical models (as shown by our "Improvements" section)
+- Orientation of 3D print greatly impacts strength of parts
